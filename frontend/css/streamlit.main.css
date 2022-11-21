@@ -14,7 +14,6 @@ button[data-baseweb="tab"] {
 
 /* Streamlit header */
 .css-1avcm0n {
-  background-color: transparent;
 }
 
 /* Main streamlit container (below header) */
@@ -72,7 +71,6 @@ button[kind="header"] {
     top: 0;
     left: 0;
     background-color: #111;
-    overflow-x: hidden;
     transition: 0.5s ease-in-out;
     padding-top: 0px;
     white-space: nowrap;
